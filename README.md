@@ -20,3 +20,10 @@ fraud_detection_dataset.csv: The dataset containing transaction records and labe
 logistic_regression_fraud_detection.ipynb: Jupyter Notebook containing the code for applying logistic regression on the dataset.
 Getting Started
 To get started with using this dataset and the logistic regression model, follow these steps:
+Clone this repository to your local machine:
+
+1-Install the required dependencies. You may use virtual environments to manage dependencies.
+
+2-Open and run the Jupyter Notebook logistic_regression_fraud_detection.ipynb to see how the logistic regression model is applied to the dataset.
+
+3-Feel free to experiment with the dataset and the model, and adapt them to your specific use case.
