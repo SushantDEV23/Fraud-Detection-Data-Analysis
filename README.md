@@ -16,8 +16,8 @@ Logistic Regression Model
 In this repository, we have applied a logistic regression model to the fraud detection dataset. Logistic regression is a commonly used algorithm for binary classification tasks, making it suitable for identifying fraudulent transactions.
 
 Files
-fraud_detection_dataset.csv: The dataset containing transaction records and labels.
-logistic_regression_fraud_detection.ipynb: Jupyter Notebook containing the code for applying logistic regression on the dataset.
+Synthetic_Financial_datasets_log.csv: The dataset containing transaction records and labels.
+fraud-detection-dataset.ipynb: Jupyter Notebook containing the code for applying logistic regression on the dataset.
 Getting Started
 To get started with using this dataset and the logistic regression model, follow these steps:
 Clone this repository to your local machine:
